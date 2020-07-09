@@ -1,7 +1,6 @@
 # SAIT-Python-Projects
 Simple python programs using IDLE
 
-This course was designed to introduce how to program in Pytong using console.
 
 Projects practiced following concepts :
 - do and while
